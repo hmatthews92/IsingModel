@@ -1,0 +1,4 @@
+IsingModel
+==========
+
+ising model innit
